@@ -1,0 +1,146 @@
+{
+	"BUILD_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/external/external-muparser_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/external",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external",
+	"CMAKE_EXECUTABLE" : "/usr/local/Cellar/cmake/3.29.1/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/CMakeLists.txt",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/external.cmake",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/newuoa.cmake",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/levmar.cmake",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/lib3ds.cmake",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/cmake/FindLib3ds.cmake",
+		"/usr/local/Cellar/cmake/3.29.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/local/Cellar/cmake/3.29.1/share/cmake/Modules/FindPackageMessage.cmake",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/gmp-mpir.cmake",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/cmake/FindGMP.cmake",
+		"/usr/local/Cellar/cmake/3.29.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/local/Cellar/cmake/3.29.1/share/cmake/Modules/FindPackageMessage.cmake",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/muparser.cmake",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/cmake/Findmuparser.cmake",
+		"/usr/local/Cellar/cmake/3.29.1/share/cmake/Modules/FindPkgConfig.cmake",
+		"/usr/local/Cellar/cmake/3.29.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/local/Cellar/cmake/3.29.1/share/cmake/Modules/FindPackageMessage.cmake",
+		"/usr/local/Cellar/cmake/3.29.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/local/Cellar/cmake/3.29.1/share/cmake/Modules/FindPackageMessage.cmake",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/openctm.cmake",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/cmake/FindOpenCTM.cmake",
+		"/usr/local/Cellar/cmake/3.29.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/local/Cellar/cmake/3.29.1/share/cmake/Modules/FindPackageMessage.cmake",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/ssynth.cmake",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/qhull.cmake",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/cmake/FindQhull.cmake",
+		"/usr/local/Cellar/cmake/3.29.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/local/Cellar/cmake/3.29.1/share/cmake/Modules/FindPackageMessage.cmake",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/u3d.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/external/external-muparser_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "external-muparser_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/external/external-muparser_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/external/external-muparser_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "_UNICODE" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/muparser_v225/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include/c++/v1",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++",
+		"-std=gnu++11",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/local/Cellar/cmake/3.29.1/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/external/external-muparser_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/external/external-levmar_autogen/mocs_compilation.cpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 11,
+	"PARSE_CACHE_FILE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/external/CMakeFiles/external-muparser_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/local/Cellar/qt@5/5.15.13/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/local/Cellar/qt@5/5.15.13/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/external/CMakeFiles/external-muparser_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/muparser_v225/src/muParser.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/muparser_v225/src/muParserBase.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/muparser_v225/src/muParserBytecode.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/muparser_v225/src/muParserCallback.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/muparser_v225/src/muParserDLL.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/muparser_v225/src/muParserError.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/muparser_v225/src/muParserInt.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/muparser_v225/src/muParserTest.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/muparser_v225/src/muParserTokenReader.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : 
+	[
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/external/external-levmar_autogen/mocs_compilation.cpp"
+	],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

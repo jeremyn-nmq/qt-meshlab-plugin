@@ -1,0 +1,234 @@
+{
+	"BUILD_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_isoparametrization/filter_isoparametrization_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_isoparametrization",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization",
+	"CMAKE_EXECUTABLE" : "/usr/local/Cellar/cmake/3.29.1/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_isoparametrization/filter_isoparametrization_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "filter_isoparametrization_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/defines.h",
+			"MU",
+			"EWIEGA46WW/moc_defines.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/diam_parametrization.h",
+			"MU",
+			"EWIEGA46WW/moc_diam_parametrization.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/diam_topology.h",
+			"MU",
+			"EWIEGA46WW/moc_diam_topology.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/diamond_sampler.h",
+			"MU",
+			"EWIEGA46WW/moc_diamond_sampler.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/dual_coord_optimization.h",
+			"MU",
+			"EWIEGA46WW/moc_dual_coord_optimization.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/filter_isoparametrization.h",
+			"MU",
+			"EWIEGA46WW/moc_filter_isoparametrization.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/iso_parametrization.h",
+			"MU",
+			"EWIEGA46WW/moc_iso_parametrization.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/iso_transfer.h",
+			"MU",
+			"EWIEGA46WW/moc_iso_transfer.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/local_optimization.h",
+			"MU",
+			"EWIEGA46WW/moc_local_optimization.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/local_parametrization.h",
+			"MU",
+			"EWIEGA46WW/moc_local_parametrization.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/mesh_operators.h",
+			"MU",
+			"EWIEGA46WW/moc_mesh_operators.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/opt_patch.h",
+			"MU",
+			"EWIEGA46WW/moc_opt_patch.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/param_collapse.h",
+			"MU",
+			"EWIEGA46WW/moc_param_collapse.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/param_flip.h",
+			"MU",
+			"EWIEGA46WW/moc_param_flip.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/param_mesh.h",
+			"MU",
+			"EWIEGA46WW/moc_param_mesh.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/parametrizator.h",
+			"MU",
+			"EWIEGA46WW/moc_parametrizator.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/stat_remeshing.h",
+			"MU",
+			"EWIEGA46WW/moc_stat_remeshing.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/statistics.h",
+			"MU",
+			"EWIEGA46WW/moc_statistics.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/tangent_space.h",
+			"MU",
+			"EWIEGA46WW/moc_tangent_space.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/texcoord_optimization.h",
+			"MU",
+			"EWIEGA46WW/moc_texcoord_optimization.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/uv_grid.h",
+			"MU",
+			"EWIEGA46WW/moc_uv_grid.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_isoparametrization/filter_isoparametrization_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_isoparametrization/filter_isoparametrization_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"GLEW_STATIC",
+		"MESHLAB_SCALAR=float",
+		"MESHLAB_VERSION=2020.12",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_OPENGL_LIB",
+		"QT_WIDGETS_LIB",
+		"QT_XML_LIB",
+		"filter_isoparametrization_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/vcglib",
+		"/usr/local/include/eigen3",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/vcglib/wrap/newuoa/include",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/levmar-2.3",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtCore.framework",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtCore.framework/Headers",
+		"/usr/local/Cellar/qt@5/5.15.13/mkspecs/macx-clang",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtOpenGL.framework",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtOpenGL.framework/Headers",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtWidgets.framework",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtWidgets.framework/Headers",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtGui.framework",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtGui.framework/Headers",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/OpenGL.framework/Headers",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtXml.framework",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtXml.framework/Headers",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtNetwork.framework",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtNetwork.framework/Headers",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/glew-2.1.0/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/OpenGL.framework",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include/c++/v1",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++",
+		"-std=gnu++11",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/local/Cellar/cmake/3.29.1/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_isoparametrization/filter_isoparametrization_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 11,
+	"PARSE_CACHE_FILE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_isoparametrization/CMakeFiles/filter_isoparametrization_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/local/Cellar/qt@5/5.15.13/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/local/Cellar/qt@5/5.15.13/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_isoparametrization/CMakeFiles/filter_isoparametrization_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_isoparametrization/filter_isoparametrization.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

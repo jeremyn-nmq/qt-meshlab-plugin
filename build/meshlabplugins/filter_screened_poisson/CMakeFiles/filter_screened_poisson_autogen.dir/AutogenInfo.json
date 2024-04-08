@@ -1,0 +1,267 @@
+{
+	"BUILD_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_screened_poisson/filter_screened_poisson_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_screened_poisson",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson",
+	"CMAKE_EXECUTABLE" : "/usr/local/Cellar/cmake/3.29.1/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_screened_poisson/filter_screened_poisson_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "filter_screened_poisson_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/Allocator.h",
+			"MU",
+			"NTUIWEGXGO/moc_Allocator.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/Array.h",
+			"MU",
+			"NTUIWEGXGO/moc_Array.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/BSplineData.h",
+			"MU",
+			"NTUIWEGXGO/moc_BSplineData.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/BinaryNode.h",
+			"MU",
+			"NTUIWEGXGO/moc_BinaryNode.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/CmdLineParser.h",
+			"MU",
+			"NTUIWEGXGO/moc_CmdLineParser.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/Factor.h",
+			"MU",
+			"NTUIWEGXGO/moc_Factor.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/FunctionData.h",
+			"MU",
+			"NTUIWEGXGO/moc_FunctionData.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/Geometry.h",
+			"MU",
+			"NTUIWEGXGO/moc_Geometry.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/Hash.h",
+			"MU",
+			"NTUIWEGXGO/moc_Hash.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/MAT.h",
+			"MU",
+			"NTUIWEGXGO/moc_MAT.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/MarchingCubes.h",
+			"MU",
+			"NTUIWEGXGO/moc_MarchingCubes.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/MemoryUsage.h",
+			"MU",
+			"NTUIWEGXGO/moc_MemoryUsage.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/MultiGridOctreeData.h",
+			"MU",
+			"NTUIWEGXGO/moc_MultiGridOctreeData.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/MyTime.h",
+			"MU",
+			"NTUIWEGXGO/moc_MyTime.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/Octree.h",
+			"MU",
+			"NTUIWEGXGO/moc_Octree.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/PPolynomial.h",
+			"MU",
+			"NTUIWEGXGO/moc_PPolynomial.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/PlyVertexMini.h",
+			"MU",
+			"NTUIWEGXGO/moc_PlyVertexMini.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/PointStream.h",
+			"MU",
+			"NTUIWEGXGO/moc_PointStream.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/Polynomial.h",
+			"MU",
+			"NTUIWEGXGO/moc_Polynomial.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/SparseMatrix.h",
+			"MU",
+			"NTUIWEGXGO/moc_SparseMatrix.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/Time.h",
+			"MU",
+			"NTUIWEGXGO/moc_Time.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/Vector.h",
+			"MU",
+			"NTUIWEGXGO/moc_Vector.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/filter_screened_poisson.h",
+			"MU",
+			"EWIEGA46WW/moc_filter_screened_poisson.cpp",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/poisson_utils.h",
+			"MU",
+			"EWIEGA46WW/moc_poisson_utils.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_screened_poisson/filter_screened_poisson_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_screened_poisson/filter_screened_poisson_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"BRUNO_LEVY_FIX",
+		"FOR_RELEASE",
+		"GLEW_STATIC",
+		"MESHLAB_SCALAR=float",
+		"MESHLAB_VERSION=2020.12",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_OPENGL_LIB",
+		"QT_WIDGETS_LIB",
+		"QT_XML_LIB",
+		"filter_screened_poisson_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/vcglib",
+		"/usr/local/include/eigen3",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtCore.framework",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtCore.framework/Headers",
+		"/usr/local/Cellar/qt@5/5.15.13/mkspecs/macx-clang",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtOpenGL.framework",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtOpenGL.framework/Headers",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtWidgets.framework",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtWidgets.framework/Headers",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtGui.framework",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtGui.framework/Headers",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/OpenGL.framework/Headers",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtXml.framework",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtXml.framework/Headers",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtNetwork.framework",
+		"/usr/local/Cellar/qt@5/5.15.13/lib/QtNetwork.framework/Headers",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/external/glew-2.1.0/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/System/Library/Frameworks/OpenGL.framework",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include/c++/v1",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++",
+		"-std=gnu++11",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/local/Cellar/cmake/3.29.1/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_screened_poisson/filter_screened_poisson_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 11,
+	"PARSE_CACHE_FILE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_screened_poisson/CMakeFiles/filter_screened_poisson_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/local/Cellar/qt@5/5.15.13/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/local/Cellar/qt@5/5.15.13/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_screened_poisson/CMakeFiles/filter_screened_poisson_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/Factor.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/Geometry.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/Src/MarchingCubes.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_screened_poisson/filter_screened_poisson.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

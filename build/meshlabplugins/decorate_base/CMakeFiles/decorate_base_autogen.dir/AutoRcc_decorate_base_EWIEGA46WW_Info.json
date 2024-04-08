@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/decorate_base/decorate_base_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/decorate_base",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/decorate_base",
+	"CMAKE_SOURCE_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/decorate_base/decorate_base_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/decorate_base/show_nonmanifold_vertex.png",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/decorate_base/show_nonmanifold_edge.png",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/decorate_base/show_boundary.png",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/decorate_base/selected_face.png",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/decorate_base/selected_vert.png",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/decorate_base/show_axis.png",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/decorate_base/contour.frag",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/decorate_base/contour.vert"
+	],
+	"LOCK_FILE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/decorate_base/CMakeFiles/decorate_base_autogen.dir/AutoRcc_decorate_base_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "decorate_base" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_decorate_base.cpp",
+	"RCC_EXECUTABLE" : "/usr/local/Cellar/qt@5/5.15.13/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/decorate_base/CMakeFiles/decorate_base_autogen.dir/AutoRcc_decorate_base_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/decorate_base/decorate_base.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

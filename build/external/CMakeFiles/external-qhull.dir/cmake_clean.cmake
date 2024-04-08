@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/external-qhull_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/external-qhull_autogen.dir/ParseCache.txt"
+  "external-qhull_autogen"
+  "CMakeFiles/external-qhull.dir/external-qhull_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/external-qhull.dir/external-qhull_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/geom.c.o"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/geom.c.o.d"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/geom2.c.o"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/geom2.c.o.d"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/global.c.o"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/global.c.o.d"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/io.c.o"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/io.c.o.d"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/mem.c.o"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/mem.c.o.d"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/merge.c.o"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/merge.c.o.d"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/poly.c.o"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/poly.c.o.d"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/poly2.c.o"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/poly2.c.o.d"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/qconvex.c.o"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/qconvex.c.o.d"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/qhull.c.o"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/qhull.c.o.d"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/qset.c.o"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/qset.c.o.d"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/stat.c.o"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/stat.c.o.d"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/user.c.o"
+  "CMakeFiles/external-qhull.dir/qhull-2003.1/src/user.c.o.d"
+  "external-qhull_autogen/mocs_compilation.cpp"
+  "external-qhull_autogen/timestamp"
+  "libexternal-qhull.a"
+  "libexternal-qhull.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C CXX)
+  include(CMakeFiles/external-qhull.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

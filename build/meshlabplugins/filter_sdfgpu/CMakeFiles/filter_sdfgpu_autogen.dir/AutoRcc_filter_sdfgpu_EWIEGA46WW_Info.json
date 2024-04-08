@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_sdfgpu/filter_sdfgpu_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_sdfgpu",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_sdfgpu",
+	"CMAKE_SOURCE_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_sdfgpu/filter_sdfgpu_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_sdfgpu/shaders/vertexShaderDepthPeeling.vs",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_sdfgpu/shaders/obscurances.frag",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_sdfgpu/shaders/shaderDepthPeeling.fs",
+		"/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_sdfgpu/shaders/calculateSdf.frag"
+	],
+	"LOCK_FILE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_sdfgpu/CMakeFiles/filter_sdfgpu_autogen.dir/AutoRcc_filter_sdfgpu_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "filter_sdfgpu" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_filter_sdfgpu.cpp",
+	"RCC_EXECUTABLE" : "/usr/local/Cellar/qt@5/5.15.13/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/build/meshlabplugins/filter_sdfgpu/CMakeFiles/filter_sdfgpu_autogen.dir/AutoRcc_filter_sdfgpu_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/jeremyn/jeremyn-coding/MITIU/advanced-computer-graphics/meshlab/src/meshlabplugins/filter_sdfgpu/filter_sdfgpu.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
